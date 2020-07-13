@@ -28,10 +28,10 @@ modules:
       - install -Dm755 start-basemarkgpu.sh /app/bin/start-basemarkgpu
     sources:
       - type: archive
-        url: https://cdn.downloads.basemark.com/BasemarkGPU-linux-1.2.0.tar.gz
+        url: https://cdn.downloads.basemark.com/BasemarkGPU-linux-1.2.1.tar.gz
         # path: put local path here, comment url for testing
         dest: basemarkgpu
-        sha256: 50f4031b028b4d403526e0be6a26cb5f83dd4c6dbd3bb274f7128aeac22df473
+        sha256: 51be7dbf3dfdeb96c25742b37ff654a06a517ba956cc64bcdc87efd82092c35d
       # For development/testing it's probably easier to just package the launcher directly from the electronui project
       # comment out the archive source and use this directory source if you want to do that for faster iteration
       # - type: dir

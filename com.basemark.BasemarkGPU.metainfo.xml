@@ -8,6 +8,7 @@
     <description>
         <p>Evaluation tool to analyze and measure graphics API performance across mobile and desktop platforms. Basemark GPU targets both Desktop and Mobile platforms by providing both High Quality and Medium Quality modes. The High-Quality mode addresses Desktop workloads, while the Medium Quality mode addresses equivalent Mobile workloads.</p>
         <p>This is non-commercial version and requires active internet connection.</p>
+		<p>Major fixes in 1.2.1: Fixes corrupted rendering on some systems.</p>
     </description>
     <categories>
         <catergory>Utility</catergory>
@@ -16,7 +17,7 @@
     <project_license>LicenseRef-proprietary</project_license>
     <developer_name>Basemark Oy</developer_name>
     <releases>
-        <release version="1.2" date="2020-02-25"/>
+        <release version="1.2.1" date="2020-07-13"/>
     </releases>
     <recommends>
         <memory>4096</memory>
