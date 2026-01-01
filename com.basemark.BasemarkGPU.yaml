@@ -4,11 +4,11 @@
 
 app-id: com.basemark.BasemarkGPU
 runtime: org.freedesktop.Platform
-runtime-version: "21.08"
+runtime-version: "25.08"
 sdk: org.freedesktop.Sdk
 # Use the Electron 2 BaseApp, which adds several common libraries we'll need.
 base: org.electronjs.Electron2.BaseApp
-base-version: "21.08"
+base-version: "25.08"
 # Electron doesn't use a traditional locale format so separate-locales is useless.
 separate-locales: false
 command: start-basemarkgpu
