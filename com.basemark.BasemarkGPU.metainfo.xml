@@ -6,7 +6,6 @@
     <name>Basemark GPU</name>
     <summary>GPU performance evaluation tool</summary>
     <description>
-        <p>**NOTE: This wrapper is not verified by, affiliated with, or supported by Basemark Oy.**</p>
         <p>Evaluation tool to analyze and measure graphics API performance across mobile and desktop platforms.
            Basemark GPU targets both Desktop and Mobile platforms by providing both High Quality and Medium Quality modes.
            The High-Quality mode addresses Desktop workloads, while the Medium Quality mode addresses equivalent Mobile workloads.</p>
